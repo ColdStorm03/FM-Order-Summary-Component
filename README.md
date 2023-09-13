@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://your-solution-url.com
-- Live Site URL: https://your-live-site-url.com
+- Solution URL: https://github.com/ColdStorm03/FM-Order-Summary-Component
+- Live Site URL: https://fm-order-summmary-component-bytasin.netlify.app/
 
 ## My process
 
